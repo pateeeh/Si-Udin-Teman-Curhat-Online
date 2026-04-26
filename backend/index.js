@@ -74,5 +74,4 @@ PENTING: Berikan respon yang singkat, padat, dan to the point. Maksimal 3-4 kali
     }
 });
 
-// Export untuk Vercel
 export default app;
